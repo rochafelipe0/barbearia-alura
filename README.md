@@ -15,6 +15,12 @@
     <li>
         <strong><a href="https://www.alura.com.br/curso-online-html5-css3-posicionamento-listas-navegacao" target="_blank">HTML5 e CSS3 parte 2: posicionamento, listas e navegação</a></strong>
     </li>
+    <li>
+        <strong><a href="https://www.alura.com.br/curso-online-html5-css3-formularios-tabelas" target="_blank">HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas</a></strong>
+    </li>
+    <li>
+        <strong><a href="https://www.alura.com.br/curso-online-html5-css3-avancando-css" target="_blank">HTML5 e CSS3 parte 4: avançando no CSS</a></strong>
+    </li>
 </ul> 
 <p>Da escola <strong><a href="https://www.alura.com.br/" target="_blank">Alura</a></strong></p>
 
@@ -23,3 +29,4 @@
 <h2>Certificações</h2>
 
 <p><a href="https://cursos.alura.com.br/certificate/d7363ed4-a139-4730-ad60-d38f2f5c6ad3" target="_blank">Certificado da Parte 1</a></p>
+<p><a href="https://cursos.alura.com.br/certificate/c43b79ab-d75f-4fc8-bcea-2b3581f984dc" target="_blank">Certificado da Parte 2</a></p>
