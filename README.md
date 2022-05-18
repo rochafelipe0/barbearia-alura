@@ -1,7 +1,7 @@
 # barbearia-alura
 <p>Status</p>
-<p><strong>[ x ] Em Desenvolvimento</strong><p>
-<p>[   ] Finalizado<>
+<p><strong>[ x ] Em Desenvolvimento</strong> &nbsp; [&nbsp;&nbsp;&nbsp;] Finalizado<p>
+
 
 <hr>
 
